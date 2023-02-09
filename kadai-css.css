@@ -1,0 +1,32 @@
+header {
+    background-color : #ffcccc;
+}
+
+#main {
+    background-color: #ccffcc;
+}
+
+#menu {
+    background-color: #ccccff;
+}
+
+footer {
+    background-color: #ffccff;
+}
+
+header, footer {
+    width: 1000px;
+}
+
+#wrapper {
+    width: 1000px;
+    display: flex;
+}
+
+#main {
+    width: 700px;
+}
+
+#menu {
+    width: 300px;
+}
